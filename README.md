@@ -1,7 +1,7 @@
 # AICA-Capstone-Project
 Building a Maintainable ETL and ELT Pipeline for Weather Analytics Using API Data, SQL, Star Schema, and Airflow
 
-AICA_CAPSTONE_PROJECT/"""
+# AICA_CAPSTONE_PROJECT
 │
 ├── dags/
 │   └── weather_pipeline.py
@@ -35,4 +35,4 @@ AICA_CAPSTONE_PROJECT/"""
 │
 ├── README.md
 │
-└── main.py """\
+└── main.py 
